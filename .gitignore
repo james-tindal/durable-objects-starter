@@ -1,0 +1,16 @@
+# block all
+*
+!*/
+!/.gitignore
+
+
+# whitelist
+!/test/*
+!/src/*
+
+!/package.json
+!/pnpm-lock.yaml
+!/README.md
+!/tsconfig*.json
+!/vitest.config.ts
+!/wrangler.toml
